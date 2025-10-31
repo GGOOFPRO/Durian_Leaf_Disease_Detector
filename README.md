@@ -1,6 +1,6 @@
-# durian_leaf_disease_detector_new
+# Durian_Leaf_Disease_Detector
 
-A new Flutter project.
+A Flutter project barely hold together by ductape and AI.
 
 ## Getting Started
 
