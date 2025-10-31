@@ -2,6 +2,8 @@
 
 A Flutter project barely hold together by ductape and AI.
 
+This made for Android, IOS? idk I didn't use MAC
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
